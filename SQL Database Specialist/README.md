@@ -4,9 +4,9 @@
 
 #### Refinando um Projeto Conceitual de Banco de Dados de E-commerce
 
-- #### Cliente PJ e PF - Uma conta pode ser PF ou PF, mas não pode ter as duas informações;
+- **Cliente PJ e PF** - Uma conta pode ser PF ou PF, mas não pode ter as duas informações;
 
-- #### Pagamento - Pode ter cadastrado mais de uma forma de pagamento;
+- **Pagamento** - Pode ter cadastrado mais de uma forma de pagamento;
 
-- #### Entrega - Possui status e código de rastreio
+- **Entrega** - Possui status e código de rastreio
 
