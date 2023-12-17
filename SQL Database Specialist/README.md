@@ -2,6 +2,8 @@
 
 ### Desafio 1:
 
+### Narrativa
+
 #### Refinando um Projeto Conceitual de Banco de Dados de E-commerce
 
 - **Cliente PJ e PF** - Uma conta pode ser PF ou PF, mas não pode ter as duas informações;
